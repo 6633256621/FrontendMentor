@@ -102,12 +102,12 @@ h4 {
     src: url(assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
 
-@media (min-width: 600px) {
+@media (min-width: 400px) {
     .container{
         margin: 5rem auto;
         padding: 2rem;
         border-radius: 1rem;
-        max-width: 1440px;
+        max-width: 750px;
     }
     img {
         border-radius: 1rem;
